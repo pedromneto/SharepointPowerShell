@@ -4,7 +4,7 @@ if((Get-PSSnapin -Name Microsoft.SharePoint.PowerShell -ErrorAction SilentlyCont
 }
 cls
 
-#Definir a variavelabaixo se o Developer Dashboard deve estar habilitado ou não
+#Definir a variavel abaixo se o Developer Dashboard deve estar habilitado ou não
 
 $habilitar = $false
 
